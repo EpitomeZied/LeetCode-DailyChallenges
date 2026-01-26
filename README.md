@@ -48,3 +48,15 @@ g++ -std=c++17 -O2 -Wall -Wextra 0066-plus-one/0066-plus-one-01-05-2026-11-24-12
 
 - Folder names follow `NNNN-problem-slug`.
 - Solution filenames include a timestamp for traceability.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1306-minimum-absolute-difference](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/1306-minimum-absolute-difference) |
+## Sorting
+|  |
+| ------- |
+| [1306-minimum-absolute-difference](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/1306-minimum-absolute-difference) |
+<!---LeetCode Topics End-->
