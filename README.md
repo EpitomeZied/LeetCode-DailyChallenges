@@ -57,6 +57,7 @@ g++ -std=c++17 -O2 -Wall -Wextra 0066-plus-one/0066-plus-one-01-05-2026-11-24-12
 | [1306-minimum-absolute-difference](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/1306-minimum-absolute-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3952-trionic-array-i](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/3952-trionic-array-i) |
+| [3956-trionic-array-ii](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/3956-trionic-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +67,8 @@ g++ -std=c++17 -O2 -Wall -Wextra 0066-plus-one/0066-plus-one-01-05-2026-11-24-12
 |  |
 | ------- |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3956-trionic-array-ii](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/3956-trionic-array-ii) |
 <!---LeetCode Topics End-->
