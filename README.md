@@ -70,5 +70,14 @@ g++ -std=c++17 -O2 -Wall -Wextra 0066-plus-one/0066-plus-one-01-05-2026-11-24-12
 ## Dynamic Programming
 |  |
 | ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3956-trionic-array-ii](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/3956-trionic-array-ii) |
+## String
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Stack
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
