@@ -80,4 +80,16 @@ g++ -std=c++17 -O2 -Wall -Wextra 0066-plus-one/0066-plus-one-01-05-2026-11-24-12
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
