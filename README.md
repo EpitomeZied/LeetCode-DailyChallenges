@@ -84,12 +84,27 @@ g++ -std=c++17 -O2 -Wall -Wextra 0066-plus-one/0066-plus-one-01-05-2026-11-24-12
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0110-balanced-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0110-balanced-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0110-balanced-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/1285-balance-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/1285-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/1285-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
