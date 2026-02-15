@@ -76,6 +76,7 @@ g++ -std=c++17 -O2 -Wall -Wextra 0066-plus-one/0066-plus-one-01-05-2026-11-24-12
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0067-add-binary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [4056-longest-balanced-substring-ii](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/4056-longest-balanced-substring-ii) |
 ## Stack
@@ -124,4 +125,16 @@ g++ -std=c++17 -O2 -Wall -Wextra 0066-plus-one/0066-plus-one-01-05-2026-11-24-12
 | ------- |
 | [4045-longest-balanced-subarray-i](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/4045-longest-balanced-subarray-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/4056-longest-balanced-substring-ii) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
