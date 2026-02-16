@@ -101,6 +101,7 @@ g++ -std=c++17 -O2 -Wall -Wextra 0066-plus-one/0066-plus-one-01-05-2026-11-24-12
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0190-reverse-bits) |
 | [1285-balance-a-binary-search-tree](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/1285-balance-a-binary-search-tree) |
 | [4045-longest-balanced-subarray-i](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/4045-longest-balanced-subarray-i) |
 ## Greedy
@@ -133,6 +134,7 @@ g++ -std=c++17 -O2 -Wall -Wextra 0066-plus-one/0066-plus-one-01-05-2026-11-24-12
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
