@@ -135,8 +135,13 @@ g++ -std=c++17 -O2 -Wall -Wextra 0066-plus-one/0066-plus-one-01-05-2026-11-24-12
 | ------- |
 | [0067-add-binary](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
