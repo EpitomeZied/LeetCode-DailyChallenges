@@ -77,6 +77,7 @@ g++ -std=c++17 -O2 -Wall -Wextra 0066-plus-one/0066-plus-one-01-05-2026-11-24-12
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0696-count-binary-substrings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [4056-longest-balanced-substring-ii](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/4056-longest-balanced-substring-ii) |
 ## Stack
@@ -144,4 +145,8 @@ g++ -std=c++17 -O2 -Wall -Wextra 0066-plus-one/0066-plus-one-01-05-2026-11-24-12
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0401-binary-watch) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/EpitomeZied/LeetCode-DailyChallenges/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
